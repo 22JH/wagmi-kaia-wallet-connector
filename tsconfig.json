@@ -31,7 +31,7 @@
     "next.config.ts",
     "messages/index.ts",
     ".next/types/**/*.ts",
-    "src/lib/stores/pinStore/PinStoreProvider.ts"
+    "src/index.ts"
   ],
   "exclude": ["node_modules"]
 }
